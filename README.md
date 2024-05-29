@@ -58,7 +58,7 @@
 
 </br></br>
 
-###  💯BEAKJUN TIER
+###  💯BAEKJOON TIER
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=unm7925)](https://github.com/unm7925)
