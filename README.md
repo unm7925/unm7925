@@ -1,16 +1,3 @@
-</br>
-</br>
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=Venom&color=80D8FF&height=250&section=header&text=Hello%20My%20Hub&fontSize=80&animation=blink&fontAlignY=38&desc=Unm7925%20GitHub%20Profile%20&descAlignY=60&descAlign=50&rotate=3&stroke=FFFFFF&fontColor=0d559d"/>
-</p>
-
-
-
-<div align="center">
-  
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funm7925&count_bg=%236EFF00&title_bg=%2380D8FF&icon=smugmug.svg&icon_color=%23000000&title=Click&edge_flat=false)
-
-</div>
 
 </br></br>
 
@@ -20,18 +7,6 @@
 
 </div>
 
-</br></br>
-
-
-<div align="center">
-
-### 📄 MY STUDY REVIEW
-  
-  <a href="https://www.notion.so/ejihoon/d7cd2e47133e4ac8abf9367efe629edd?v=973f6243473146edbf1b7fe5d7887e74">
-      <img src="https://img.shields.io/badge/Notion-FFFFFF.svg?style=for-the-badge&logo=Notion&logoColor=FFD400"/>
-  </a>
-</div>
-
 </br>
 
 <div align="center">
@@ -39,7 +14,6 @@
 ### ☑️ USED UNGINE
 
 <img src="https://img.shields.io/badge/Unity-269dd9.svg?style=for-the-badge&logo=Unity&logoColor=FFFFFF"/>　
-<img src="https://img.shields.io/badge/Unreal-08bf14.svg?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF"/>
 
 </div>
 
