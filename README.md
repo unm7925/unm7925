@@ -9,6 +9,10 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=unm7925)](https://solved.ac/unm7925)
-
+<!---
+<a href="https://solved.ac/unm7925">
+  <img src="http://mazandi.herokuapp.com/api?handle=unm7925&theme=cold" width="350" />
+</a>
+----->
 
 ![Unm7925's GitHub stats](https://github-readme-stats.vercel.app/api?username=unm7925&show_icons=true&theme=dark)
