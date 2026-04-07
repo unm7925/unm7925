@@ -1,6 +1,8 @@
 
 <p style="font-size:0;">
-  <img src="https://img.shields.io/badge/Unity-269dd9.svg?style=for-the-badge&logo=Unity&logoColor=FFFFFF" height="28"/><img src="https://img.shields.io/badge/C sharp-4c2889.svg?style=for-the-badge&logo=Csharp&logoColor=efebe0" height="28"/><img src="https://img.shields.io/badge/C++-b146c2.svg?style=for-the-badge&logo=Cplusplus&logoColor=efebe0" height="28"/>
+  <img src="https://img.shields.io/badge/Unity-269dd9.svg?style=for-the-badge&logo=Unity&logoColor=FFFFFF" height="26"/>
+  <img src="https://img.shields.io/badge/C sharp-4c2889.svg?style=for-the-badge&logo=Csharp&logoColor=efebe0" height="26"/>
+  <img src="https://img.shields.io/badge/C++-b146c2.svg?style=for-the-badge&logo=Cplusplus&logoColor=efebe0" height="26"/>
 </p>
 
 
